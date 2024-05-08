@@ -1,29 +1,29 @@
-# DNC 🇧🇷 Zipcode and 🌡️ Weather Search 👨🏻‍💻
+# 🇧🇷 Zipcode and 🌡️ Weather Search 👨🏻‍💻
 
-## Link demo: [DncZipcodeWeather](https://dnczipcodeweather.netlify.app/)
+## Demo Link: [DncZipcodeWeather](https://dnczipcodeweather.netlify.app/)
 
-### 🔥 Contexto:
-Você acabou de ser recrutado como o mais novo desenvolvedor em uma startup inovadora chamada "DncWeather". Essa startup está revolucionando a maneira como as empresas gerenciam informações internas e externas.
+### 🔥 Context:
+You've just been recruited as the newest developer at an innovative startup called "DncWeather". This startup is revolutionizing the way companies manage internal and external information.
 
-Sua primeira missão na "DncWeather" é desenvolver um sistema interno para os funcionários, que os ajudará a acessar informações críticas sobre endereços e previsões do tempo de forma eficiente.
+Your first mission at "DncWeather" is to develop an internal system for employees that will help them access critical information about addresses and weather forecasts efficiently.
 
-A "DncWeather" acredita que acessibilidade e simplicidade são fundamentais para o sucesso de qualquer sistema interno. Portanto, sua tarefa inicial é criar uma interface de usuário atraente e funcional que permitirá que os funcionários insiram facilmente as informações necessárias para obter endereços e previsões do tempo. Este será o primeiro passo na construção do sistema que transformará a experiência dos funcionários na empresa.
+"DncWeather" believes that accessibility and simplicity are fundamental for the success of any internal system. Therefore, your initial task is to create an attractive and functional user interface that will allow employees to easily enter the information required to obtain addresses and weather forecasts. This will be the first step in building the system that will transform the experience of employees in the company.
 
-### ℹ️ Como preencher a Latitude e Longitude:
-- **Latitude**: A latitude é a coordenada geográfica que representa a posição norte ou sul de um ponto na Terra. Varia de -90 (Sul) a 90 (Norte). Por exemplo: -23.5505 (São Paulo, Brasil).
-- **Longitude**: A longitude é a coordenada geográfica que representa a posição leste ou oeste de um ponto na Terra. Varia de -180 (Oeste) a 180 (Leste). Por exemplo: -46.6333 (São Paulo, Brasil).
+### ℹ️ How to fill in the Latitude and Longitude:
+- **Latitude**: Latitude is the geographic coordinate that represents the north or south position of a point on Earth. It ranges from -90 (South) to 90 (North). For example: -23.5505 (São Paulo, Brazil).
+- **Longitude**: Longitude is the geographic coordinate that represents the east or west position of a point on Earth. It ranges from -180 (West) to 180 (East). For example: -46.6333 (São Paulo, Brazil).
 
-### Figma UI fornecido por eles
+### Figma UI provided by them
 
-### 🧠 O que aprendi trabalhando neste projeto:
-- ✅ Como consumir a API ViaCep
-- ✅ Como consumir a API Open-Meto
-- ✅ Como validar entradas antes de enviá-las
-- ✅ Criar uma máscara de CEP do zero (sem biblioteca)
-- ✅ Trabalhar com Event listeners e Keypress
-- ✅ Trabalhar com querySelectors
+### 🧠 What I've learned working on this project:
+- ✅ How to consume the ViaCep API
+- ✅ How to consume the Open-Meto API
+- ✅ How to validate inputs before submitting them
+- ✅ Create a Zipcode mask from scratch (without a library)
+- ✅ Work with Event listeners and Keypress
+- ✅ Work with querySelectors
 
-Espero que goste tanto quanto eu! ⭐
+Hope you enjoy it as much as I have! ⭐
 
-### Captura de Tela:
-[Inserir captura de tela aqui]
+### Screenshot:
+[Insert screenshot here]
