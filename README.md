@@ -10,8 +10,8 @@ Your first mission at "DncWeather" is to develop an internal system for employee
 "DncWeather" believes that accessibility and simplicity are fundamental for the success of any internal system. Therefore, your initial task is to create an attractive and functional user interface that will allow employees to easily enter the information required to obtain addresses and weather forecasts. This will be the first step in building the system that will transform the experience of employees in the company.
 
 ### ℹ️ How to fill in the Latitude and Longitude:
-- **Latitude**: Latitude is the geographic coordinate that represents the north or south position of a point on Earth. It ranges from -90 (South) to 90 (North). For example: -23.5505 (São Paulo, Brazil).
-- **Longitude**: Longitude is the geographic coordinate that represents the east or west position of a point on Earth. It ranges from -180 (West) to 180 (East). For example: -46.6333 (São Paulo, Brazil).
+- **Latitude**: Latitude is the geographic coordinate that represents the north or south position of a point on Earth. It ranges from -90 (South) to 90 (North). For example: -23.55 (São Paulo, Brazil).
+- **Longitude**: Longitude is the geographic coordinate that represents the east or west position of a point on Earth. It ranges from -180 (West) to 180 (East). For example: -46.63 (São Paulo, Brazil).
 
 ### Figma UI provided by them
 
