@@ -26,7 +26,7 @@ Your first mission at "DncWeather" is to develop an internal system for employee
 Hope you enjoy it as much as I have! ⭐
 
 ### Screenshot:
-[![image](https://github.com/thiagomorais16/pageWeather/assets/118579263/e85102f5-f82a-4689-8c4c-b97d8db5d6f8)
-]
-[![image](https://github.com/thiagomorais16/pageWeather/assets/118579263/32095ce3-4fde-4f4d-aadd-48f339c4524e)
-]
+![image](https://github.com/thiagomorais16/pageWeather/assets/118579263/e85102f5-f82a-4689-8c4c-b97d8db5d6f8)
+
+![image](https://github.com/thiagomorais16/pageWeather/assets/118579263/32095ce3-4fde-4f4d-aadd-48f339c4524e)
+
