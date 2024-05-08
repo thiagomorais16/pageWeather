@@ -1,15 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="script" href="script.js">
-</head>
-<body>
-    <header>DncWeather</header>
-    <section></section>
-    <footer></footer>
-</body>
+    <title>weather</title>
+    <link rel="stylesheet" href="/src/css/style.css">
+    <script src="/src/js/script.js"></script>
+  </head>
+  <body>
+    <nav>
+      <h3>DncWeather</h3>
+      <div class="menu">
+        <a href="#address"> Endereços</a>
+        <a href="#weather"> Previsão do tempo</a>
+      </div>
+    </nav>
+    <div class="container">
+      <div class="section">
+        <h1 class="title">Descubra Mais com Precisão:<br> Previsões do Tempo e endereços<br> em tempo real.</h1>
+        <img class="cloudy" src="/src/assets/sun.png">
+      </div>
+    
+      <form>
+        <div class="label-form">
+          <label for="firstName"> Primeiro Nome: </label>
+          <input type="text" id="firstName" name="firstName" placeholder="Insira seu primeiro nome" required>
+          <small> <span class="warning"></span></small>
+        </div>
+        <div class="label-form">
+          <label for="email"> Email: </label>
+          <input type="email" id="email" name="email" placeholder="Insira seu email" required>
+          <small><span class="warning"></span></small>
+        </div>
+        <div class="label-form">
+          <label for="zipcode"> Digite o CEP: </label>
+          <input type="text" id="zipcode" name="zipcode" placeholder="Insira o CEP" maxlength="9" onkeypress="zipMask(this)"
+            required>
+          <small><span class="error" id="errorZipcode"></span></small>
+          <small><span class="warning"></span></small>
+        </div>
+        <div class="label-form">
+          <label> Digite a latitute e longitude para saber a previsão: </label>
+          <div class="input-2">
+            <input type="text" id="lat" name="lat" placeholder="Latitude" required>
+            <input type="text" id="lon" name="lon" placeholder="Longitude" required>
+          </div>
+          <small><span class="error" id="errorLatLon"></span></small>
+    
+        </div>
+        <button type="button" class="btn-form" id="btn-form" onclick="validateForm()"> Acessar</button>
+      </form>
+    
+      <div class="section" id="address">
+        <h1>Resultado da busca por CEP:</h1>
+        <img class="location" src="/src/assets/location.png">
+      </div>
+    
+      <table>
+        <thead>
+          <tr class="table-title">
+            <td>Logradouro</td>
+            <td>Bairro</td>
+            <td>Localidade/UF</td>
+          </tr>
+        </thead>
+        <tbody>
+    
+          <tr class="table-subtitle">
+            <td><span id="street"></span></td>
+            <td><span id="district"></span></td>
+            <td><span id="cityUf"></span></td>
+          </tr>
+        </tbody>
+    
+      </table>
+    
+      <div class="section" id="weather">
+        <h1>Previsão do tempo na região:</h1>
+        <img class="clouds" src="/src/assets/clouds.png">
+      </div>
+      <div class="weather">
+        <h4>Previsão de tempo de acordo com a região: <span id="weatherData"></span> </h4>
+      </div>
+    
+    </div>
+    
+    <footer>
+      <div class="footer-links">
+        <a href="#">Termos de Uso</a> |
+        <a href="#">Política de Privacidade</a>
+      </div>
+    </footer>
+  </body>
 </html>
