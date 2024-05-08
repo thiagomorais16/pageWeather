@@ -1,4 +1,4 @@
-# 🌡️ Weather Search 👨🏻‍💻
+# 🌡️ Weather Search 👨🏻‍💻 and Zip Code
 
 ## Demo Link: [Weather](https://main--weatherth.netlify.app/)
 
