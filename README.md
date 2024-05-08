@@ -1,6 +1,6 @@
 # 🇧🇷 Zipcode and 🌡️ Weather Search 👨🏻‍💻
 
-## Demo Link: [DncZipcodeWeather](https://dnczipcodeweather.netlify.app/)
+## Demo Link: [Weather](https://main--weatherth.netlify.app/)
 
 ### 🔥 Context:
 You've just been recruited as the newest developer at an innovative startup called "DncWeather". This startup is revolutionizing the way companies manage internal and external information.
@@ -26,4 +26,7 @@ Your first mission at "DncWeather" is to develop an internal system for employee
 Hope you enjoy it as much as I have! ⭐
 
 ### Screenshot:
-[Insert screenshot here]
+[![image](https://github.com/thiagomorais16/pageWeather/assets/118579263/e85102f5-f82a-4689-8c4c-b97d8db5d6f8)
+]
+[![image](https://github.com/thiagomorais16/pageWeather/assets/118579263/32095ce3-4fde-4f4d-aadd-48f339c4524e)
+]
