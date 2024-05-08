@@ -1,4 +1,4 @@
-###🌡️ Weather Search 👨🏻‍💻
+# 🌡️ Weather Search 👨🏻‍💻
 
 ## Demo Link: [Weather](https://main--weatherth.netlify.app/)
 
